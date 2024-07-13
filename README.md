@@ -16,7 +16,7 @@ The included Terraform files define the necessary AWS resources, and the diagram
 
 ## Architecture Diagram
 
-![Architecture Diagram](NXT-AS2.drawio.png)
+![Architecture Diagram](NXT-ASS2.drawio.png)
 
 ## Cost Optimization Report
 
